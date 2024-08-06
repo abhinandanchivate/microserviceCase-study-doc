@@ -23,8 +23,7 @@
     </div>
   </div>
   <div class="stackedit__right">
-    <div class="stackedit__html">
-      <p>Certainly! Here’s an extended version of the documentation including details on Eureka Server, Config Server, Resilience, Load Balancer, Feign, API Gateway, and Docker:</p>
+   
 <hr>
 <h3 id="healthcare-system-api-documentation"><strong>Healthcare System API Documentation</strong></h3>
 <hr>
